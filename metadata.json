@@ -1,0 +1,6 @@
+{
+  "name": "Cartório de Potim - Tabelionato e Registro Civil",
+  "description": "Portal oficial do Tabelionato de Notas e Registro Civil das Pessoas Naturais de Potim - SP. Agendamentos automáticos, solicitação de certidões, consulta de protocolos e conformidade com o Provimento 213/CNJ e LGPD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
